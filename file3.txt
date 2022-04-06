@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-gitpractice
-=======
 git demo
->>>>>>> 3f2131d952a18e20f43f31b785774d8eb8ecc94a
